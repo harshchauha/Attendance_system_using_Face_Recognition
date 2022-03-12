@@ -1,4 +1,4 @@
-# Attendance_system_using_Face_Recognition
+# Attendance+CWS_system_using_Face_Recognition
 ## Description
 Very few biometric technologies are attracting as much attention as facial recognition. Facial recognition technology offers a host of benefits such as in authentication, monitoring, access control, indexing, and maintenance of surveillance applications. This project aims to change the way attendance is taken in classrooms, workspaces and almost everywhere with the help of deep-learnng libraries in python.
 
