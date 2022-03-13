@@ -18,7 +18,7 @@ Change the setting in video-capture-line(number 46) of codefile attendance.py to
 
  ![image](https://user-images.githubusercontent.com/97878444/158023679-2c25e411-e37e-43c9-861b-5a3ae633fe92.png)
 
-- You can see the updated attendence.csv file by opening it.
+- You can see the updated attendence.csv file by opening it
 
 ## Applications in Real Life
 1. Automated Time Tracking System
