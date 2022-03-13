@@ -1,6 +1,7 @@
 # Attendance+CWS_system_using_Face_Recognition
 ## Description
 Very few biometric technologies are attracting as much attention as facial recognition. Facial recognition technology offers a host of benefits such as in authentication, monitoring, access control, indexing and maintenance of surveillance applications. This project aims to change the way attendance is taken in classrooms, workspaces and almost everywhere with the help of deep-learnng libraries in python.
+Our system can be used in a real tym classroom environment where we can track the attendence and the measure of attentiveness in of students in the classroom by face recognition technique and activity tracker algorithm and provide a user friendly attendece sheet which will demonstrate the time span for which a particualar student was attentive during the class time span.
 
 ## Requirements
 - Python 3.3+ or Python 2.7
