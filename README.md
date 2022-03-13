@@ -1,6 +1,6 @@
 # Attendance+CWS_system_using_Face_Recognition
 ## Description
-Very few biometric technologies are attracting as much attention as facial recognition. Facial recognition technology offers a host of benefits such as in authentication, monitoring, access control, indexing, and maintenance of surveillance applications. This project aims to change the way attendance is taken in classrooms, workspaces and almost everywhere with the help of deep-learnng libraries in python.
+Very few biometric technologies are attracting as much attention as facial recognition. Facial recognition technology offers a host of benefits such as in authentication, monitoring, access control, indexing and maintenance of surveillance applications. This project aims to change the way attendance is taken in classrooms, workspaces and almost everywhere with the help of deep-learnng libraries in python.
 
 ## Requirements
 - Python 3.3+ or Python 2.7
@@ -24,13 +24,13 @@ Change the setting in video-capture-line(number 46) of codefile attendance.py to
 Entry and exit time monitoring done manually or with other biometric systems can be fully automated with facial recognition attendance systems. 
 2. Cost-Effective
 A facial recognition attendance system can save business resources by automatic employee time tracking. It is a cost-effective method as the small scale companies can’t afford biometrics. 
-•	Increase employee productivity by 10%
-•	Cut administrative costs by 5-10%
-
+•	Increases employee productivity by 10%.
+•	Cuts administrative costs by 5-10%.
 3. Touchless Sign In System: A Post Pandemic Requirement
 Post pandemic there has been a significant increase in demand and adoption of contactless technologies. It is a touchless process so reduces the risk of virus transmission.
-5. More Accurate and Better Worker Attendance
+4. More Accurate and Better Worker Attendance
 With a face recognition attendance system, the entire environment is automated. You won’t just take the attendance but also automatically record the entry-exit time of the employees. 
+5. It can also be used for monitoring in the class and judge the attentiveness of students.
 
 ## Contributors in the project
 - Chaitanya Gupta
